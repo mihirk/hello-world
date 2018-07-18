@@ -23,6 +23,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [4Test](%23/4test)
 * [4Thdimension](%23/4thdimension.4dd)
 * [~English](%23/~English.ext)
+* [( ͡° ͜ʖ ͡°)fuck]("%23/( ͡° ͜ʖ ͡°)fuck.bf")
 * [Abap](a/abap.abap)
 * [Abc](a/abc.abc)
 * [Acidic](a/ACIDIC.acidic)
